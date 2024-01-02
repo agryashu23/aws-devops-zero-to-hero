@@ -5,4 +5,4 @@ set -e
 docker pull agryashu23/simple-python-flas-app
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 docker pull agryashu23/simple-python-flas-app
+docker run -d -p 5000:5000 docker pull agryashu23/simple-python-flas-app 
